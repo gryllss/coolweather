@@ -1,5 +1,8 @@
 package android.coolweather.com.coolweather.db;
 
+import android.view.LayoutInflater;
+
+import org.litepal.LitePal;
 import org.litepal.crud.DataSupport;
 import org.litepal.crud.LitePalSupport;
 
